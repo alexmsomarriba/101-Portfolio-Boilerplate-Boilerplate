@@ -1,4 +1,10 @@
 
+.contact{
+   animation-name: contact;
+}
+
+
+
 main {
     background-color: blue;
     animation-name: change;
@@ -7,3 +13,4 @@ main {
 @keyframes change {
     100% {background-color: aqua}
 }
+
