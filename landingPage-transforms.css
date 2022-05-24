@@ -1,7 +1,16 @@
+
 .contact{
-   animation-name: contact; 
-    
+   animation-name: contact;
 }
-.contact:hover{
-    transform:scale(1.1);
+
+
+
+main {
+    background-color: blue;
+    animation-name: change;
+    animation-duration: 2s;
 }
+@keyframes change {
+    100% {background-color: aqua}
+}
+
