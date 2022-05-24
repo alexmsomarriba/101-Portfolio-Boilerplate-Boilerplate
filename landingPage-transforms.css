@@ -5,5 +5,8 @@ main {
     animation-duration: 2s;
 }
 @keyframes change {
-    100% {background-color: aqua}
+    100% {background-color: yellowgreen}
+}
+h2 {
+    font-size: 100pt;
 }
