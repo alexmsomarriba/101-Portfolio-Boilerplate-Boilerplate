@@ -1,0 +1,11 @@
+@keyframes change {
+    100% {color: yellow}
+}
+
+.contactInfo {
+    color: cyan;
+    animation-name: change;
+    animation-duration: 5s;
+    animation-timing-function: ease;
+}
+
