@@ -1,0 +1,7 @@
+.contact{
+   animation-name: contact; 
+    
+}
+.contact:hover{
+    transform:scale(1.1);
+}
