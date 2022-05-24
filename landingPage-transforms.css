@@ -1,11 +1,9 @@
-@keyframes change {
-    100% {color: yellow}
-}
 
-.contactInfo {
-    color: cyan;
+main {
+    background-color: blue;
     animation-name: change;
-    animation-duration: 5s;
-    animation-timing-function: ease;
+    animation-duration: 2s;
 }
-
+@keyframes change {
+    100% {background-color: aqua}
+}
