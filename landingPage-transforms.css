@@ -1,0 +1,8 @@
+main {
+    background-color: blue;
+    animation-name: change;
+    animation-duration: 2s;
+}
+@keyframes change {
+    100% {background-color: aqua}
+}
